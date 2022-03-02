@@ -1,2 +1,2 @@
 # SnakeGame
-Snake game buildin for exercise.
+Snake game building for exercise.
